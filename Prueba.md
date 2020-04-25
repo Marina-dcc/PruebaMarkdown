@@ -23,3 +23,5 @@ Y se han encontrado los siguientes:
 	>Estos hacen referencia a que todos los títulos están con el mismo encabezado (h2) y que hay listas desordenadas. En principio no serían muy importantes ya que los encabezados tienen el mismo valor y la lista desordenada la han usado para incluir logos de empresas colaboradoras y no tiene que tener un orden en concreto para su entendimiento.
 
 	**Solución**: Incluir sonido descriptivo a las imágenes
+
+*Ver modificación en git
